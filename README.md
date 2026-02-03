@@ -138,5 +138,5 @@ Results: Terraform successfully created instance i-03294ed441f273492 in just 16 
 
 5\. Conclusion
 
-This project allowed me to successfully demonstrate both manual and automated cloud provisioning. These skills complement my B.Tech background as I continue my professional development.
+This Task allowed me to successfully demonstrate both manual and automated cloud provisioning.
 
